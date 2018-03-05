@@ -1,1 +1,1 @@
-choco upgrade curl git googlechrome firefox dotnetcore visualstudiocode atom python nodejs golang rust erlang 7zip filezilla insomnia-rest-api-client docker minikube
+choco upgrade curl git googlechrome firefox dotnetcore visualstudiocode atom jdk9 python nodejs golang rust erlang 7zip filezilla insomnia-rest-api-client docker minikube

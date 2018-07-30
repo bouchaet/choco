@@ -1,1 +1,1 @@
-choco upgrade curl git cmder googlechrome firefox notepadplusplus dotnetcore visualstudiocode atom python nodejs 7zip filezilla insomnia-rest-api-client
+choco upgrade curl git cmder googlechrome firefox notepadplusplus dotnetcore visualstudiocode atom python nodejs 7zip filezilla insomnia-rest-api-client exercism-io-cli
